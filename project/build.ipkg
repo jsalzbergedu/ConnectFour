@@ -1,0 +1,11 @@
+package ConnectFour
+
+modules = ConnectFour
+
+sourcedir = src
+
+main = ConnectFour
+
+pkgs = idrisscript
+
+executable = ConnectFour
